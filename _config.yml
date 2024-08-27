@@ -1,0 +1,13 @@
+title: "Sherp App"
+collections_dir: content
+
+collections:
+  authors:
+    output: true
+    permalink: /authors/:path/
+  travels:
+    output: true
+    permalink: /travels/:path/
+  posts:
+    output: true
+    permalink: /blog/:path/
